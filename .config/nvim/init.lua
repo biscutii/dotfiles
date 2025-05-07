@@ -1,10 +1,6 @@
 
 require("config.lazy")
 
-require("lazy").setup({
-    'github/copilot.vim',
-})
-
 require("catppuccin").setup({
     transparent_background = true, 
 })
