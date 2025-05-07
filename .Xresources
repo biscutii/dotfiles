@@ -1,0 +1,7 @@
+Xft.dpi: 115 ! Default dpi is 96
+Xft.autohint: 0
+Xft.Icdfilter: Icddefault
+Xft.hintstyle: hintfull
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb

@@ -11,3 +11,5 @@ PS1='[\u@\h \W]\$ '
 
 export VISUAL=nvim
 export EDITOR="$VISUAL"
+
+source /usr/share/nvm/init-nvm.sh
